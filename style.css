@@ -1,0 +1,27 @@
+.text-center{
+	text-align: center;
+}
+
+.btn-round{
+	border-radius: 50px;
+}
+
+.btn-silver{
+	background-color: ##CCCCCC;
+	border-width: 3px;
+	font-size: 36px;
+}
+
+.bg-image{
+	background-image: url(/Users/freddyheppell/Desktop/Code_at_uni_2/piggy.png);
+	background-size: cover;
+	padding-top: 200px;
+	padding-bottom: 200px;
+}
+
+.description{
+	font-size: 20px;
+}
+.btn-home {
+    margin-top: -3;
+}
